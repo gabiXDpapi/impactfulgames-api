@@ -1,0 +1,30 @@
+{
+    "bendove2.": {
+        "id": "344fff26-7e0e-5e89-bb11-7908500a9011",
+        "fullName": "Ben Dover",
+        "hash": "$2b$12$AGiAS9l/sn5q.Y0aDGw7c.2BswdIQr0oBOgGUMeCm1J8gJcouKE/.",
+        "userLevel": 0,
+        "createdAt": 1746188114
+    },
+    "mikeco30.": {
+        "id": "35c70db3-07f1-5534-b07a-9601fd14627b",
+        "fullName": "Mike Cox",
+        "hash": "$2b$12$TlTKyyWrSISxlCDkUUtlFuYkrZDHvaD9JaxDM4F75o8GWEOnonugG",
+        "userLevel": 1,
+        "createdAt": 1746188161
+    },
+    "jen12.": {
+        "id": "a5a32ce2-d71e-5e99-ada7-9f19c06924e9",
+        "fullName": "Jenny Tall",
+        "hash": "$2b$12$E/JmuH6JSy.tky6.TmBpaemi8O5HfwfUI3zTc3bhga6LgGJEyuLmG",
+        "userLevel": 2,
+        "createdAt": 1746188222
+    },
+    "jomal34.": {
+        "id": "a1d44ab5-5f02-5163-a820-4cbe69b343b0",
+        "fullName": "Jo Malone",
+        "hash": "$2b$12$p0cVR3Nk2rQ/pLcbxDVKru0yVarPzoanj/5U.yWGlOoPukOQPZTMy",
+        "userLevel": 3,
+        "createdAt": 1746188258
+    }
+}
